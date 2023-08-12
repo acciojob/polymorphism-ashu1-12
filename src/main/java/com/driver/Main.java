@@ -1,7 +1,7 @@
 package com.driver;
 
-public class Main {
-    public static class Product{
+  class Main {
+     static class Product{
         public int product(int x, int y){return 0;}
         public  int product(int x, int y, int z){return 0;}
 
